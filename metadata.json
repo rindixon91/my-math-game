@@ -1,0 +1,6 @@
+{
+  "name": "Baldi's Basics: Kadaran Survival",
+  "description": "Permainan seram-pendidikan 2D pandangan atas berasaskan Matematik Tingkatan 1 KSSM Bab 4.3: Kadaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
